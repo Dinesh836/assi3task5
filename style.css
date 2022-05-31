@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+.btn{
+    font-family: cursive;
+    border-radius: 50%;
+}
+body.dark{
+    background-color: black;
+    color: white;
+}
